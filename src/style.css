@@ -5,6 +5,7 @@
 @font-face {
     font-family: "Racing Sans One";
     src: url("../fonts/RacingSansOne-Regular.ttf");
+    font-display: swap;
 }
 
 
