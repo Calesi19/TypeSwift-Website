@@ -1,10 +1,10 @@
 export function Instructions() {
   return (
     <div className="bg-[#eb4f26] min-h-[300px] w-full py-[150px] overflow-hidden">
-          <h1 className="text-5xl container">How it Works</h1>
+          <h1 className="text-5xl container font-racing">How it Works</h1>
           <div className="container w-full flex gap-4 mt-10">
           
-        <div className="w-1/2 ">
+        <div className="w-1/2 overflow-x-visible">
           
 
           <div className="min-h-[125px] flex gap-8">
@@ -50,8 +50,8 @@ export function Instructions() {
             </div>
           </div>
         </div>
-        
-        <div className="h-full bg-slate-400 flex flex-col justify-center">
+
+        <div className="h-full flex flex-col justify-center pl-15 overflow-visible">
           <img src="app.png" alt="TypeSwift App Example" />
         </div>
       </div>

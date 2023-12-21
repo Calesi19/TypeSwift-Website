@@ -2,6 +2,9 @@
 export default {
   content: ["./src/**/*.{html,js,jsx,ts}"],
   theme: {
+    fontFamily: {
+      'racing': ["Racing Sans One", "sans-serif"],
+    },
     container: {
       center: true,
       padding: {
