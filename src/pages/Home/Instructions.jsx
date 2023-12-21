@@ -1,7 +1,7 @@
 export function Instructions() {
   return (
     <div className="bg-[#eb4f26] min-h-[300px] w-full py-[150px] overflow-hidden">
-          <h1 className="text-5xl container font-racing">How it Works</h1>
+          <h1 className="text-[64pt] container font-racing">How it Works</h1>
           <div className="container w-full flex gap-4 mt-10">
           
         <div className="w-1/2 overflow-x-visible">
