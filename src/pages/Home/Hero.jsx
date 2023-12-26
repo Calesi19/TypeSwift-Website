@@ -21,15 +21,15 @@ export function Hero() {
             </div>
 
             <div className="mt-10 flex flex-col md:flex-row gap-2 z-30">
-              <Button className="z-30" color="blue">
+              <Button className="z-30" color="blue" onClick={() => alert("Coming Soon")}>
                 Download
                 <FaWindows className="ml-2 h-5 w-5" />
               </Button>
-              <Button className="z-30" color="blue">
+              <Button className="z-30" color="blue" onClick={() => alert("Coming Soon")}>
                 Download
                 <FaApple className="ml-2 h-5 w-5" />
               </Button>
-              <Button className="z-30" color="blue">
+              <Button className="z-30" color="blue" onClick={() => alert("Coming Soon")}>
                 Download
                 <FaLinux className="ml-2 h-5 w-5" />
               </Button>
