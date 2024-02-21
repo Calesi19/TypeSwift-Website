@@ -1,3 +1,5 @@
+![Banner](docs/banner.png)
+
 # GitHub Codespaces ♥️ Preact
 
 [Try Preact in a codespace](https://github.com/codespaces/new?template=preact)
